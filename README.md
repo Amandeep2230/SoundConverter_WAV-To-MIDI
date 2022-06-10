@@ -4,5 +4,6 @@ This is the WAV to MIDI sound converter developed by the members of group 7 and 
 The following references were used to develop this project: 
 https://magenta.tensorflow.org
 https://www.tensorflow.org/js/
+https://piano-scribe.glitch.me
 
 Hope you like it! :)
